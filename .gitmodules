@@ -1,0 +1,4 @@
+[submodule "corporate"]
+	path = themes/corporate
+	url = git@github.com:ptsteadman/hexo-theme-corporate.git
+
