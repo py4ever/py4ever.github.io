@@ -1,8 +1,9 @@
 ---
 title: py4ever web site!
 date: 2021-09-27 14.13
-tags:
-
+category: "release"
+tags: 
+- py4ever
 ---
 
 <font face="华文新魏" color="#ee0000" size="20px">py4ever</font>
