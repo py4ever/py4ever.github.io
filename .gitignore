@@ -5,3 +5,5 @@ db.json
 node_modules/
 public/
 .deploy*/
+.idea/
+py4ever.github.io.iml
